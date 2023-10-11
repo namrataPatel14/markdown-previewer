@@ -4,7 +4,7 @@ const InputContainer = styled.div`
  padding:20px
 `
 const StyledTextArea = styled.textarea`
- padding:20px
+ padding:30px
 `
 
 interface MarkdownInputProps{

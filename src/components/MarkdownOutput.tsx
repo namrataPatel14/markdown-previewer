@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Markdown from 'react-markdown';
 
 const OutputContainer = styled.div`
-  padding:10px
+  padding:30px
 `
 interface MarkdownOutputProps {
     markdown: string;

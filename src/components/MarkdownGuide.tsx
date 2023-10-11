@@ -5,7 +5,7 @@ const GuideContainer = styled.div`
   
 `
 const Code = styled.code`
-  padding:10px;
+  padding:30px;
 `
 
 const MarkdownGuide = () => {
